@@ -6,7 +6,7 @@
 #include <HID-Settings.h> 
  
 // Encoder 1: Flechas izquierda/derecha (Pins 2, 3) 
-Encoder miEncoder(2, 3); 
+Encoder miEncoder(2, 3); //Puedes intercambiar los numeros es decir poner el 3 y despues el 2 esto aplica para cualquier encoder en dado caso te hayas equivocado al soldar los encoders a los pines del arduino
 long posicionAnterior = 0; 
 long pasosAcumulados = 0; 
  
