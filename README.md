@@ -62,3 +62,5 @@ Este código emula **presión de teclas** mediante USB HID, por lo que tu Arduin
 
 MIT License
 
+Copyright (c) 2025 David Sanchez
+
